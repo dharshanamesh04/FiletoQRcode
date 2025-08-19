@@ -2,11 +2,11 @@
 A simple Python GUI application to generate QR codes from text or URLs using Tkinter and the `qrcode` library.
 
 ## Features
-- Generate QR codes from any text or URL.
-- Choose a save location and file name for the QR code image.
-- Select QR code size (version 1-40).
-- Automatically creates folders if the save location doesn’t exist.
-- Provides error messages for invalid inputs.
+> Generate QR codes from any text or URL.
+> Choose a save location and file name for the QR code image.
+> Select QR code size (version 1-40).
+> Automatically creates folders if the save location doesn’t exist.
+> Provides error messages for invalid inputs.
 
 ## Installation
 1. Clone the repository:
