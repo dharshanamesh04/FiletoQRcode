@@ -1,6 +1,5 @@
 # QR Code Generator
 A simple Python GUI application to generate QR codes from text or URLs using Tkinter and the `qrcode` library.
-url:https://dharshanamesh04.github.io/FiletoQRcode/
 
 
 
@@ -14,7 +13,7 @@ url:https://dharshanamesh04.github.io/FiletoQRcode/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/dharshanamesh04/FiletoQRcode>
    cd QR_Code_Generator
    
 2.Install dependencies:
