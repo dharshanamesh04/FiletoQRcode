@@ -1,0 +1,9 @@
+"""A requirements.txt file that lists external Python packages your project needs (qrcode[pil], Pillow).
+This helps others install everything with"""
+
+pip install -r requirements.txt
+
+
+"""Css"""
+qrcode[pil]
+Pillow
